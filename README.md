@@ -4,8 +4,6 @@ This repository contains source code and results of calculations accompanying th
 
 > Y. Saleh and A. Iske, Inducing Riesz bases in $L^2$ _via_ composition operators (submitted)
 
-Requirements
-
 ## Requirements
 ---
 We used **Conda** to manage dependencies and ensure reproducible environments.
