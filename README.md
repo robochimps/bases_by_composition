@@ -4,12 +4,21 @@ This repository contains source code and results of calculations accompanying th
 
 > Y. Saleh and A. Iske, Inducing Riesz bases in $L^2$ _via_ composition operators (submitted)
 
+Requirements
+
+## Requirements
+---
+We used **Conda** to manage dependencies and ensure reproducible environments.
+
+To create the environment from the provided `requirements.txt` file, run:
+
+```bash
+conda create --name myenv --file requirements.txt
+```
+
 Contents
 ---
-tba 
-
-Requirements
----
+The experiments performed in the manusript are provided in `generate_bases.ipynb`.
 
 Citation
 ---
