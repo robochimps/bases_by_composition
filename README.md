@@ -2,7 +2,8 @@
 
 This repository contains source code and results of calculations accompanying the manuscript:
 
-> Y. Saleh and A. Iske, Inducing Riesz bases in $L^2$ _via_ composition operators (submitted)
+> Y. Saleh and A. Iske: Inducing Riesz bases in $L^2$ _via_ composition operators. Complex Anal.
+Oper. Theory. 20, 21 (2025). [DOI:10.1007/s11785-025-01874-5](https://doi.org/10.1007/s11785-025-01874-5).
 
 ## Requirements
 ---
@@ -22,18 +23,23 @@ Citation
 ---
 If you use this code in your research, please cite:
 
->  Y. Saleh and A. Iske, Inducing Riesz bases in $L^2$ _via_ composition operators (submitted). arXiv: eprint: 2406.18613 (2025) [DOI:10.48550/arXiv.2406.18613](https://doi.org/10.48550/arXiv.2406.18613)
+>  Y. Saleh and A. Iske: Inducing Riesz bases in $L^2$ _via_ composition operators. Complex Anal.
+Oper. Theory. 20, 21 (2025) [DOI:10.1007/s11785-025-01874-5](https://doi.org/10.1007/s11785-025-01874-5).
+
 
 ```bibtex
-@Misc{Saleh:arXiv2406:18613,
-  title        = {Inducing {Riesz} and orthonormal bases in {$L^2$} via composition operators},
-  author       = {Saleh, Yahya and Iske, Armin},
-  year         = 2024,
-  archivePrefix= {arXiv},
-  eprint       = {2406.18613},
-  primaryClass = {math},
-  howpublished = {preprint},
-}
+@article{Saleh:CAOT20:21,
+	author = {Saleh, Yahya and Iske, Armin},
+	year   = {2025},
+	isbn   = {1661-8262},
+	journal= {Complex Anal. Oper. Theory.},
+	number = {1},
+	pages  = {21},
+	title  = {Inducing Riesz Bases in $L^2$ via Composition Operators},
+	url    = {https://doi.org/10.1007/s11785-025-01874-5},
+	volume = {20},
+	doi    = {10.1007/s11785-025-01874-5},
+  }
 ```
 
 Contact
